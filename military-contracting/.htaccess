@@ -1,0 +1,7 @@
+
+#####THE FOLLOWING IS REQUIRED FOR PROTECTED FOLDERS
+AuthUserFile /home/vol8_2/infinityfree.com/if0_35190857/htdocs/military-contracting//.htpasswd.7ac21005abd50fb4e425ed520f6b417f
+AuthName password_required
+AuthType Basic
+Require valid-user
+########END REQUIRE
